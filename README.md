@@ -17,6 +17,7 @@ The goal of these instructions are for you to set up your own Ximera page, model
 3. Click "Fork" in the upper right corner to create your own copy the `ximeraWorkshop` repository.
 1. Create a [SageMathCloud](https://cloud.sagemath.com/) account.
 2. Click on `New Project`.  Include your name in the project title.
+3. If you like, share the project with the Workshop Leader.
 4. Switch over to your forked GitHub repository, and copy the http URL from the right hand side.
 5. Switch back to SageMathCloud (SMC).
 3. Once in your new SMC project, click on `New`.
