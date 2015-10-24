@@ -23,6 +23,11 @@ Some [slides](https://osu.box.com/maa-ximera) provide an overview of the project
 6. Open the folder `ximeraWorkshop`
 7. Click `New` and create a terminal.
 8. Enter `source setup.sh` into the terminal and press enter.
+9. Tell git your name with the commands
+```
+git config user.email "you@example.com"
+git config user.name "Your Name"
+```
 9. Close the terminal.
 10. Navigate to `activity.tex` in the Sage Math Cloud file browser.
 11. Try editing `activity.tex` to explore some of the printed possibilities of Ximera.
