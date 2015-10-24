@@ -47,4 +47,16 @@ git config user.name "Your Name"
 
 # After making edits, push them to GitHub
 
+1. Go to SMC and enter the `ximeraWorkshop` folder.
+2. Open a terminal.
+3. If you changed `activity.tex` then run the command
+```
+git add activity.tex
+```
+to "stage" these changes.
+4. Commit the change with `git commit -m "A description of your change."`
+5. Push these changes to GitHub with `git push`
+6. You will be asked for your GitHub credentials at this point.
+7. Go to your GitHub repository to confirm that these changes are visible.
+
 After the server processes your changes to `activity.tex`, you should be able to view them at `http://ximera.osu.edu/course/YOUR-GITHUB-USERNAME/ximeraWorkshop/master/activity`
