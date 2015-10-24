@@ -1,5 +1,7 @@
 Some [slides](https://osu.box.com/maa-ximera) provide an overview of the project.
 
+The goal of these instructions are for you to set up your own Ximera page, modeled after [a basic example](http://ximera.osu.edu/course/kisonecat/ximeraWorkshop/master/activity).
+
 # Check out Ximera
 
 1. Create a [GitHub](https://github.com/) account.
