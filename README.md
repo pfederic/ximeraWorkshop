@@ -39,3 +39,5 @@
 11. Click `Add webhook`
 
 # After making edits, push them to GitHub
+
+After the server processes your changes to `activity.tex`, you should be able to view them at `http://ximera.osu.edu/course/YOUR-GITHUB-USERNAME/ximeraWorkshop/master/activity`
