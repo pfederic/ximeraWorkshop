@@ -1,3 +1,5 @@
+Some [slides](https://osu.box.com/maa-ximera) provide an overview of the project.
+
 # Check out Ximera
 
 1. Create a [GitHub](https://github.com/) account.
